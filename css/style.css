@@ -153,6 +153,12 @@ nav a:hover {
 }
 .catalogtext:hover{
   background-color: darkorange;;
+  color: black;
+}
+.Justice{ 
+  color: white;
+  background-color: black;
+  padding: 4px;
 }
 .Chernobil a{
   background-color: black;
