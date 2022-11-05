@@ -155,16 +155,11 @@ nav a:hover {
   background-color: darkorange;;
   color: black;
 }
-.Justice{ 
-  color: white;
-  background-color: black;
-  padding: 4px;
-}
 .Chernobil a{
   background-color: black;
   color: white;
   text-decoration: none;
-  margin-right: 100px;
+  margin-right: 90px;
 }
 .Chernobil a:hover{
   background-color: darkorange;
@@ -184,6 +179,7 @@ nav a:hover {
   background-color: black;
   padding: 5px;
   text-decoration: none;
+  margin-top: 20px;
 }
 .Industry a:hover{
   color: black;
